@@ -14,13 +14,7 @@ Donwload the files and implement inside your WordPress theme folder. No plugins 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Yujin Takayanagi**
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+This is theme is still underdevelopment. I will start listing the version once it reaches version 1.0.0.
 
 ## License
 
