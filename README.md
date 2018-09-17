@@ -1,6 +1,6 @@
 # Hola WP
 
-One Paragraph of project description goes here
+Hola WP is a free WordPress theme converted from [Hola](https://www.styleshout.com/free-templates/hola/) by styleshout. Original template has been adjusted to 
 
 ## Getting Started
 
